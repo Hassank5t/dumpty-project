@@ -7,7 +7,7 @@ body{
     height: 100vh;
 }
 .main_2{
-    color:red;
+    color:blue;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -31,7 +31,7 @@ body{
 
 }
 .formcls button{
-    background-color: red;
+    background-color: blue;
     border-radius: 2rem;
     margin-top: 1rem;
     padding: .6rem;
